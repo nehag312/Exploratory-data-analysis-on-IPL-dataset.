@@ -368,7 +368,7 @@ ggplot(st,aes(reorder(fielder,stumpd),stumpd))+
   theme(plot.background = element_rect(fill="tomato"))+
   theme(panel.background = element_rect(fill="peru"))
 
-#MS Dhoni has taken most number of stumps(38) followed by RV Uthappa(32)
+###MS Dhoni has taken most number of stumps(38) followed by RV Uthappa(32)
 
 
 #Most caughts taken
@@ -387,6 +387,8 @@ ggplot(ct,aes(reorder(fielder,ncaughts),ncaughts))+
   geom_text(aes(label=ncaughts),hjust=0.5,vjust=1.9)+
   theme(plot.background = element_rect(fill="powderblue"))+
   theme(panel.background = element_rect(fill="linen"))
+
+###KD Karthik had taken maximum number of catches in the IL followed by SK Raina
 
 
 #number of centuries hit

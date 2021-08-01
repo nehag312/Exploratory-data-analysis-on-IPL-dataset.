@@ -6,10 +6,10 @@ Two datasets, Matches and Deliveries task, are used to complete this analysis al
 I have find out result on the following and also represented is graphically using grammar of graphics-
 1. Total matches played per season.
    Result: Maximum number of matches was played in the IPL 2013 season.
-2. IPL title winner in each season vs the venue
+2. IPL title winner in each season vs the venue.
    Result: Graphical representation of Title winner based on the season and venue.
 3. Most successful IPL title winners.
-   Result: Most successful IPL title winner is Mumbai Indians with number of wins equals to 4 followed by Chennai Super King
+   Result: Most successful IPL title winner is Mumbai Indians with number of wins equals to 4 followed by Chennai Super King.
 4. Most successful teams according to the number of wins.
    Result: Mumbai India also has most number of wins(109) in the IPL from season 2008-2019
 5. Most man of the match award winners. (TOP 10)
@@ -33,7 +33,7 @@ I have find out result on the following and also represented is graphically usin
 14. Most wickets takers in IPL
     Result: SL Malinga has taken most number of wickets in the IPL.
 15. Most stumps taken.
-    Result: MS Dhoni has taken most number of stumps(38) followed by RV Uthappa(32)
+    Result: MS Dhoni has taken most number of stumps(38) followed by RV Uthappa(32).
 16. Most caughts taken
     Result: KD Karthik had taken maximum number of catches in the IPL followed by SK Raina.
 17. Maximum number of centuries hit.
